@@ -81,7 +81,7 @@ class Varity:
 
 
 if __name__ == "__main__":
-    apps = [
+    apps = [//30个
             "automotive_susan_c", "automotive_susan_e", "automotive_susan_s",
             "automotive_bitcount", "bzip2d", "office_rsynth", "telecom_gsm",
             "telecom_adpcm_c", "telecom_adpcm_d", "security_blowfish_d",
